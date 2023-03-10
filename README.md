@@ -1,3 +1,8 @@
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+       
+
 # Discord-ChatGPT
 
 This Discord-Bot is using OpenAI's new Public available GPT-3.5-Turbo model to be integrated with Discord-Severs. The Bot will be able to differintiate between users since the message the model gets starts with the username of the user who asked the question. It also keeps track of previous conversations.
